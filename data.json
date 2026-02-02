@@ -1,0 +1,26 @@
+[
+    {
+        "Name": "manaswi",
+        "Age": 18,
+        "Email": "manaswikhuman@gmail.com",
+        "Pin": 2486,
+        "AccountNumber": "1234",
+        "Balance": 10250
+    },
+    {
+        "Name": "tejaswi",
+        "Age": 23,
+        "Email": "btesjaswi@gmail.com",
+        "Pin": 3656,
+        "AccountNumber": "V@670yW",
+        "Balance": 0
+    },
+    {
+        "name": "Mazekin",
+        "age": 33,
+        "email": "maze@gmail.com",
+        "pin": 3399,
+        "accountNo.": "%cn454G",
+        "balance": 0
+    }
+]
